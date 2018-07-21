@@ -1,0 +1,36 @@
+.Ffooter{
+	
+	position: fixed;
+	width:100%;
+	height: 1.45rem;
+	border-top: 1px solid #ccc; 
+	bottom: 0;
+	background: #fff;
+}
+	
+.Fbox{
+	
+	width: 90%;
+	height:100%;
+	padding:0 5% ;	
+}
+.FsBox{
+	width:20%;
+	height:100%;
+	float: left;
+	text-align: center;margin-top: 0.05rem;
+}
+.Fboxs{
+	width: 100%;
+	height:100%;
+	overflow: hidden;
+}
+.FsBox i{
+	font-size: 0.8rem;
+	
+}
+.FsBox div{
+	font-size: 0.3rem;
+	font-weight: bold;
+	margin-top: -0.1rem;
+}

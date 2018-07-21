@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+	font-size: 0.5rem;
+}
+.Hheader{
+	overflow: hidden;
+	position: fixed;
+	width:100%;
+	height: 1.45rem;
+	border-bottom: 1px solid #ccc; 
+	background: #fff;
+}	
+.Hbox{
+	width: 95%;
+	height:100%;
+	padding:0 0 0 5% ;	
+	
+}
+.Hh1{
+	width: 0.8rem;
+	height: 0.8rem;
+	float: left;
+	margin: 0.30rem ;
+	margin-left: 0;
+}
+.Hinput{
+	width: 60%;
+	height: 64%;
+	margin-top: 2.8%;
+	border-radius: 60px;
+	outline:none;
+	border: none;
+	background: #f0f0f0;
+	font-size: 1rem;
+}
+.Hh3{
+	width: 0.8rem;
+	height: 0.8rem;
+	float: right;
+	margin: 0.30rem ;
+	margin-right: 0.3rem;
+	margin-left: 0.15rem;
+	text-align: center;
+}
+.Hh3 i{
+	font-size: 0.8rem;	
+}
+.Hh3 div{
+	font-size: 0.4rem;
+}
+.Hlogin{
+	margin-left: 0.15rem;
+	font-size: 0.4rem;
+	float: right;
+	margin-right: 0.3rem;
+	margin-top: 0.5rem;
+}
+
+	
